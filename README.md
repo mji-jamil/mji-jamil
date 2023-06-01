@@ -32,15 +32,14 @@ I'm a graduate in Computer Science  & Engineering from American International Un
 
 - 📫 Feel free to reach me out **jamiulislamjamil@gmail.com**
   
-  
-    </br>
+  <br>
   
  ## Things I'm currently challenging myself with
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
   
-  </br>
+<br>
   
 ## My Github Stats
 <div>
@@ -146,14 +145,14 @@ I'm a graduate in Computer Science  & Engineering from American International Un
   <a href="https://instagram.com/mji-jamil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: jamiulislamjamil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- </br>
-</br>
+<br>
+<br>
 </div>
 
 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><q>Confusion is part of Programming</h2></q></summary>
+    <summary><h2 style="display: inline-block"><q>Confusion is part of Programming</q></h2></summary>
   </ul>
 </div>
